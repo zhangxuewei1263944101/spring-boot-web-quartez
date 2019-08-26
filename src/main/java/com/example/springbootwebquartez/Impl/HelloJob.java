@@ -1,8 +1,6 @@
 package com.example.springbootwebquartez.Impl;
 
-import com.example.springbootwebquartez.service.Job;
 import org.quartz.*;
-import org.quartz.impl.StdSchedulerFactory;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 
 import java.text.SimpleDateFormat;
